@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Eduardo Simon**, a Full Stack Software Engineer at [Flywire](https://www.flywire.com/) with **6 years** of professional experience.
+I'm **Eduardo Simon**, a Full Stack Software Engineer at [Flywire](https://www.flywire.com/) with **7 years** of professional experience.
 
 ## 💻 About Me
 
